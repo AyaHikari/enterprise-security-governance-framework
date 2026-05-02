@@ -1,95 +1,108 @@
 # Enterprise Security Governance & Risk Assessment Framework
 
-Designed and documented a complete enterprise security program including risk assessment, governance, incident response, and compliance alignment for a global organization.
+A structured Governance, Risk, and Compliance (GRC) case study simulating the design of an enterprise-wide security program for a global organization. The project integrates risk assessment, governance, incident response, and compliance aligned with industry frameworks.
+
+---
+
+## Executive Summary
+
+This project demonstrates the design of a complete enterprise security program where risk-driven analysis informs governance decisions, security controls, and resilience planning. It reflects real-world GRC operations across global environments with cloud, IoT, and regulatory considerations.
+
+---
 
 ## Project Overview
 
-- Scope: End-to-end enterprise security program design  
-- Focus Areas: Risk Assessment, Governance, Incident Response, Compliance  
-- Frameworks: ISO 27001, NIST CSF, CIS Controls  
-- Approach: Qualitative & Quantitative Risk Analysis (CIA, ALE, SLE)
+- **Scope:** End-to-end enterprise GRC program design  
+- **Domains:** Risk Management, Governance, Incident Response, Compliance  
+- **Frameworks:** ISO 27001, NIST CSF, CIS Controls, GDPR  
+- **Risk Methods:** Qualitative & Quantitative Analysis (CIA, SLE, ALE)
 
-## What This Project Demonstrates
-
-- Ability to design an enterprise-wide GRC program from scratch  
-- Practical application of ISO 27001 and NIST CSF in a realistic environment  
-- Risk-based thinking using both qualitative and quantitative methods  
-- Translation of threats into governance, controls, and policies  
-- Understanding of enterprise-scale security operations and compliance requirements
-
-## Project Significance
-
-The project simulates a real enterprise GRC function where risk assessments directly influence governance decisions, security investment priorities, and compliance strategy across a global organization. The project incorporates realistic enterprise scenarios, including global operations, regulatory compliance requirements, and modern threat landscapes such as IoT security and cloud-based risks.
-
-## Framework Alignment
-
-This project aligns with industry-recognized frameworks and standards:
-
-- ISO 27001 (Information Security Management System)
-- NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover)
-- CIS Critical Security Controls
-- GDPR & Data Privacy Regulations
-
-It demonstrates practical implementation of governance, risk, and compliance (GRC) principles in a simulated enterprise environment.
+---
 
 ## Key Deliverables
 
-- Enterprise Case Study (Global Architecture Firm Simulation)
-- Threat Modeling & Analysis (12+ Threat Scenarios)
-- Qualitative & Quantitative Risk Assessment (CIA, ALE, SLE)
-- Enterprise Information Security Policy (EISP)
-- Incident Response Plan (IRP)
-- Disaster Recovery Plan (DRP)
-- Business Continuity Plan (BCP)
-- Security Architecture Design
-- Physical Security Framework
-- IT & Security Governance Structure
+- Enterprise Case Study (Global Architecture Firm simulation)  
+- Threat Modeling (12+ attack scenarios)  
+- Risk Assessment (CIA-based qualitative + ALE/SLE quantification)  
+- Enterprise Information Security Policy (EISP)  
+- Incident Response Plan (IRP)  
+- Disaster Recovery Plan (DRP)  
+- Business Continuity Plan (BCP)  
+- Security Architecture Design  
+- Physical Security Controls  
+- Security Governance Structure (roles & responsibilities)
+
+---
 
 ## Repository Structure
 
-- case-study/ → Fictional organization overview  
-- threat-analysis/ → Identified threats and attack scenarios  
-- risk-assessment/ → Qualitative & quantitative analysis  
-- policies/ → Enterprise Information Security Policy (EISP)  
-- contingency-planning/ → IRP, DRP, BCP  
-- architecture/ → Security architecture design  
-- governance/ → Security roles and hierarchy
+- `case-study/` → Organization context and business environment  
+- `threat-analysis/` → Threat scenarios and attack modeling  
+- `risk-assessment/` → Risk analysis (qualitative & quantitative)  
+- `policies/` → Information security policy (EISP)  
+- `contingency-planning/` → IRP, DRP, BCP  
+- `architecture/` → Security architecture design  
+- `physical-security/` → Physical security controls  
+- `governance/` → Security roles and governance structure  
+
+---
 
 ## Methodology
 
-This methodology mirrors how enterprise GRC teams operationalize security governance from risk identification to policy enforcement and resilience planning. The project followed a structured GRC approach:
+The project follows a structured GRC lifecycle aligned with enterprise security practices:
 
 1. Defined organizational context and critical assets  
-2. Identified threats and mapped potential attack vectors  
+2. Identified threats and mapped attack vectors  
 3. Performed qualitative and quantitative risk assessments (CIA, ALE, SLE)  
-4. Designed and implemented security policies (EISP)  
-5. Developed incident response, disaster recovery, and business continuity plans  
-6. Proposed security architecture and physical security controls  
-7. Established governance structure and role-based responsibilities
+4. Developed security policies aligned with ISO 27001  
+5. Designed incident response, disaster recovery, and business continuity plans  
+6. Proposed security architecture and physical controls  
+7. Established governance structure with defined roles and accountability  
+
+---
 
 ## Sample Findings
 
-- Identified high-risk threats including unauthorized access, insider threats, and IoT vulnerabilities  
-- High-value assets such as financial records and data centers classified as critical (High CIA impact)  
-- Calculated Annual Loss Expectancy (ALE) for key risks to support decision-making  
-- Identified gaps in phishing protection, DDoS mitigation, and regulatory adaptability
+- High-risk threats: insider threats, unauthorized access, IoT exploitation  
+- Critical assets classified based on CIA impact (financial systems, data centers)  
+- Quantitative risk evaluation using Annual Loss Expectancy (ALE)  
+- Identified control gaps in phishing resistance, DDoS mitigation, and compliance readiness  
 
-## Tools & Concepts Used
+---
 
-- Risk Assessment Methodologies (Qualitative & Quantitative)
-- CIA Triad (Confidentiality, Integrity, Availability)
-- ALE / SLE Risk Calculations
-- ISO 27001 Controls & Policy Structure
-- NIST Cybersecurity Framework
-- Threat Modeling
-- Incident Response Planning
+## Framework Alignment
+
+- **ISO 27001:** Information Security Management System (ISMS) design principles  
+- **NIST CSF:** Identify, Protect, Detect, Respond, Recover lifecycle  
+- **CIS Controls:** Security control prioritization and baseline hardening  
+- **GDPR:** Data protection and privacy compliance considerations  
+
+---
+
+## Tools & Concepts
+
+- Risk Assessment (Qualitative & Quantitative)  
+- CIA Triad (Confidentiality, Integrity, Availability)  
+- ALE / SLE Financial Risk Modeling  
+- Threat Modeling Techniques  
+- Security Policy Development  
+- Incident Response Lifecycle  
+- Business Continuity & Disaster Recovery Planning  
+
+---
 
 ## Skills Demonstrated
 
-- Governance, Risk & Compliance (GRC)
-- Risk Identification & Analysis
-- Security Policy Development
-- Incident Response Planning
-- Business Continuity & Disaster Recovery
-- Security Architecture Design
-- Regulatory & Compliance Awareness
+- Governance, Risk & Compliance (GRC)  
+- Enterprise Risk Analysis  
+- Security Policy Design  
+- Incident Response Planning  
+- Business Continuity Management  
+- Security Architecture Design  
+- Regulatory & Compliance Alignment  
+
+---
+
+## Note
+
+All artifacts are simulated enterprise-grade deliverables designed to reflect real-world GRC practices aligned with industry standards.
